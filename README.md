@@ -1,4 +1,4 @@
-#  Hi, I'm Sehaj Mehmi!
+https://github.com/sehaj0123/Sehaj/settings#  Hi, I'm Sehaj Mehmi!
 
 Machine Learning Analyst Diploma Student | Aspiring Data Scientist | Passionate about AI & Predictive Analytics  
 
@@ -17,5 +17,7 @@ Machine Learning Analyst Diploma Student | Aspiring Data Scientist | Passionate 
 
 ##  Let's Connect!  
 - LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/sehaj-mehmi-62919228b)
-- GitHub: [github.com/YourGitHub](https://github.com/sehaj0123)  
+- GitHub: [github.com/YourGitHub](https://github.com/sehaj0123)
+- Check out my Data Science portfolio: [My Portfolio](https://datascienceportfolio.net/mehmisehaj)
+  
 
