@@ -1,24 +1,21 @@
-Hi, I'm Sehaj Mehmi 
+#  Hi, I'm Sehaj Mehmi!
 
-Welcome to my GitHub profile! I am currently pursuing a diploma in Machine Learning Analyst and have a strong passion for using data and machine learning to solve real-world problems.
+Machine Learning Analyst Diploma Student | Aspiring Data Scientist | Passionate about AI & Predictive Analytics  
 
-Skills
+ I’m interested in data science, machine learning, and software engineering. I love working on innovative projects that solve real-world problems.  
 
-Machine Learning: Predictive models, data preprocessing, feature engineering
-Programming Languages: Python, R
-Tools & Libraries: Scikit-learn, TensorFlow, Pandas, NumPy, Matplotlib
-Data Visualization: Matplotlib, Seaborn
-Project Management: Git, GitHub, Agile methodologies
+##  Skills  
+- Python (Pandas, NumPy, Scikit-learn, TensorFlow)  
+- Machine Learning & Data Visualization  
+- SQL & Data Management  
+- Predictive Analytics & AI Ethics  
 
-My Data Projects
+##  Projects  
+- [Student Performance Prediction](https://github.com/YourGitHub/StudentPerformance)  
+- [Fake News Detection](https://github.com/YourGitHub/FakeNewsDetector)  
+- [Customer Churn Prediction](https://github.com/YourGitHub/CustomerChurn)  
 
-Here’s a look at some of the work I’m passionate about:
-Predictive Maintenance
-This project focuses on using machine learning to improve maintenance strategies, cut costs, and make operations more efficient. By analyzing data, we predict when machines or equipment are likely to fail, helping businesses plan maintenance ahead of time.
+##  Let's Connect!  
+- LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/sehaj-mehmi-62919228b)
+- GitHub: [github.com/YourGitHub](https://github.com/sehaj0123)  
 
-Key Features:
-
-Predictive maintenance to avoid unexpected failures.
-Optimizing resource allocation for maintenance tasks.
-Identifying unusual patterns that may indicate future failures.
-Estimating future maintenance costs to help businesses plan budgets.
