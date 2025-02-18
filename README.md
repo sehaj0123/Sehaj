@@ -1,4 +1,4 @@
-https://github.com/sehaj0123/Sehaj/settings#  Hi, I'm Sehaj Mehmi!
+Hi, I'm Sehaj Mehmi!
 
 Machine Learning Analyst Diploma Student | Aspiring Data Scientist | Passionate about AI & Predictive Analytics  
 
